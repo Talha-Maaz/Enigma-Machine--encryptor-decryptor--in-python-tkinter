@@ -1,5 +1,7 @@
 # Enigma Machine
 
+first semester programming project
+
 This is a simple GUI application for encrypting and decrypting text using Caesar, Playfair, and Vigenère ciphers.With a history button to help keep a track for multiple encryptions.
 
 ![Enigma Machine GUI](interface.png)
